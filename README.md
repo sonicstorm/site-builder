@@ -1,4 +1,4 @@
-rock-cms
-========
+rock-site-builder
+=================
 
-Rock CMS is a Content Management System written in PHP. Rock CMS is used to create amazing Web Applications.
+Rock Site Builder is a Website Builder written in PHP. Rock Site Builder is used to build amazing Web Applications.
