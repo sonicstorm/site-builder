@@ -4,7 +4,7 @@ Site Builder
 Introduction
 ------------
 Site Builder is a HTML5 Website Builder written in PHP. 
-Site Builder is used to build amazing Web 3.0 HTML5 Applications.
+Site Builder is used to build amazing Web 3.0 HTML5 Applications that work both on Desktop and Mobile Browsers.
 
 Installation
 ------------
