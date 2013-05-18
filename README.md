@@ -1,12 +1,10 @@
-ZendSkeletonApplication
-=======================
+Site Builder
+============
 
 Introduction
 ------------
-This is a simple, skeleton application using the ZF2 MVC layer and module
-systems. This application is meant to be used as a starting place for those
-looking to get their feet wet with ZF2.
-
+Site Builder is a HTML5 Website Builder written in PHP. 
+Site Builder is used to build amazing Web 3.0 HTML5 Applications.
 
 Installation
 ------------
